@@ -1,0 +1,19 @@
+.homework07-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  flex: 1;
+  padding: 50px;
+  background: rgb(231, 167, 214);
+}
+
+.card-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  font-size: 30px;
+  color: rgb(52, 32, 69);
+  font-weight: bold;
+}
