@@ -1,6 +1,5 @@
 import styled from "@emotion/styled";
 
-// export const = styled.``
 
 export const AnimalCardWrapper = styled.div`
   display: flex;
